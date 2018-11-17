@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23310591-bccc-40a1-b4de-dfefea675dfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej12.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp4_estructura_iterativa/tp4ej34.py" beforeDir="false" afterPath="$PROJECT_DIR$/tp4_estructura_iterativa/tp4ej34.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +14,10 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/fdi_guia_2018$tp3ej10.coverage" NAME="tp3ej10 Coverage Results" MODIFIED="1542251107938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3_estructura_alternativa" />
+    <SUITE FILE_PATH="coverage/fdi_guia_2018$tp4ej34.coverage" NAME="tp4ej34 Coverage Results" MODIFIED="1542454635629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp4_estructura_iterativa" />
     <SUITE FILE_PATH="coverage/fdi_guia_2018$tp3ej9.coverage" NAME="tp3ej9 Coverage Results" MODIFIED="1542249790807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3_estructura_alternativa" />
     <SUITE FILE_PATH="coverage/fdi_guia_2018$tp3ej11.coverage" NAME="tp3ej11 Coverage Results" MODIFIED="1542251543579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3_estructura_alternativa" />
+    <SUITE FILE_PATH="coverage/fdi_guia_2018$tp2ej3.coverage" NAME="tp2ej3 Coverage Results" MODIFIED="1542315972969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp2_estructura_secuencial" />
     <SUITE FILE_PATH="coverage/fdi_guia_2018$tp3ej8.coverage" NAME="tp3ej8 Coverage Results" MODIFIED="1542229757929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tp3_estructura_alternativa" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -31,35 +32,44 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="4" />
+          <entry key="py" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="4" />
+          <entry key="Python" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1561" />
+          <entry key="py" value="1918" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="1561" />
+          <entry key="Python" value="1918" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej11.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tp4_estructura_iterativa/tp4ej34.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="57" lean-forward="true" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+            <state relative-caret-position="338">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej12.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -82,6 +92,8 @@
         <option value="$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej9.py" />
         <option value="$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej10.py" />
         <option value="$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej11.py" />
+        <option value="$PROJECT_DIR$/tp4_estructura_iterativa/tp4ej34.py" />
+        <option value="$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej12.py" />
       </list>
     </option>
   </component>
@@ -115,7 +127,17 @@
             <path>
               <item name="fdi-guia-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="fdi-guia-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="tp2_estructura_secuencial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fdi-guia-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fdi-guia-2018" type="462c0819:PsiDirectoryNode" />
               <item name="tp3_estructura_alternativa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fdi-guia-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fdi-guia-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="tp4_estructura_iterativa" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,7 +168,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tp3ej11">
+  <component name="RunManager" selected="Python.tp4ej34">
+    <configuration name="tp2ej3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fdi-guia-2018" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tp2_estructura_secuencial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp2_estructura_secuencial/tp2ej3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tp3ej10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fdi-guia-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,28 +235,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tp3ej8" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="fdi-guia-2018" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tp3_estructura_alternativa" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="tp3ej9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="fdi-guia-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,18 +257,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tp4ej34" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="fdi-guia-2018" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tp4_estructura_iterativa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp4_estructura_iterativa/tp4ej34.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.tp3ej8" />
       <item itemvalue="Python.tp3ej9" />
       <item itemvalue="Python.tp3ej10" />
       <item itemvalue="Python.tp3ej11" />
+      <item itemvalue="Python.tp2ej3" />
+      <item itemvalue="Python.tp4ej34" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tp4ej34" />
+        <item itemvalue="Python.tp2ej3" />
         <item itemvalue="Python.tp3ej11" />
         <item itemvalue="Python.tp3ej10" />
         <item itemvalue="Python.tp3ej9" />
-        <item itemvalue="Python.tp3ej8" />
       </list>
     </recent_temporary>
   </component>
@@ -271,26 +317,35 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18597998" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18597998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.32771084" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -316,12 +371,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej10.py">
+    <entry file="file://$PROJECT_DIR$/tp2_estructura_secuencial/tp2ej3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="120">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp4_estructura_iterativa/tp4ej3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp4_estructura_iterativa/tp4ej9.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp4_estructura_iterativa/tp4ej10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp2_estructura_secuencial/tp2ej9.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp2_estructura_secuencial/tp2ej10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp2_estructura_secuencial/tp2ej11.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp2_estructura_secuencial/tp2ej12.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej9.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -330,10 +406,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej11.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="57" lean-forward="true" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp4_estructura_iterativa/tp4ej34.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tp3_estructura_alternativa/tp3ej12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
         </state>
       </provider>
     </entry>

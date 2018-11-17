@@ -17,8 +17,8 @@ else:
     bisiesto = False
 
 if(dia > 0 and dia <= 31) and (mes > 0 and mes <=12) and anio > 0:
-    if (dia == 31 and (mes != 1 or mes != 3 or mes != 5 or mes != 7 or mes != 8 or mes != 10 or mes != 12)) \
-            or (dia == 30 and (mes != 4 or mes != 6 or mes != 9 or mes != 11)) \
+    if (dia == 31 and (mes != 1 and mes != 3 and mes != 5 and mes != 7 and mes != 8 and mes != 10 and mes != 12)) \
+            or (dia >= 30 and mes == 2) \
             or (dia == 28 and mes == 2 and bisiesto) \
             or (dia == 29 and mes == 2 and not bisiesto):
         fechaValida = False
